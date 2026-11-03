@@ -1,0 +1,2 @@
+# Relatórios em LaTeX são documentação; a linguagem do repositório é contada pelo código Python
+*.tex linguist-documentation
